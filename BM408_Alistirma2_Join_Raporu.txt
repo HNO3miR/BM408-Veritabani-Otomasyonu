@@ -1,0 +1,5 @@
+AD SOYAD		DEPARTMAN		ODA NO
+---------------------------------------------------------
+Emre Büyükkalfa		Muhasebe		1312
+Ali Polat		İnsan Kaynakları		2435
+Özgür Şengül		Pazarlama		4235

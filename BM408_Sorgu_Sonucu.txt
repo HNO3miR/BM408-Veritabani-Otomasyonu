@@ -1,0 +1,4 @@
+1	-	Muhasebe	-	1312
+2	-	İnsan Kaynakları	-	2435
+3	-	Pazarlama	-	4235
+4	-	IT	-	6235

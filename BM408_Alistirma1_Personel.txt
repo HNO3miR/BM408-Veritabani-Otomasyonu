@@ -1,0 +1,3 @@
+ID: 8	 İsim: Emre Büyükkalfa	 Maaş: 2000 TL
+ID: 9	 İsim: Ali Polat	 Maaş: 3500 TL
+ID: 10	 İsim: Özgür Şengül	 Maaş: 900 TL
